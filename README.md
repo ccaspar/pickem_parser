@@ -8,8 +8,8 @@ To see if there is an edge to be gained, I compared vegas lines from [vegasinsid
 are not influenced by the public. Is there an edge to be gained?
 
 ## Concepts and Skills used
-Python
-Pandas
-BeautifulSoup
+Python <br>
+Pandas <br>
+BeautifulSoup 
 
 
